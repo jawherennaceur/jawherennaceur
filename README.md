@@ -11,7 +11,7 @@
  <p> 🌱 I’m currently learning **Tensorflow and Data sciences** </p>
 <p>🔭 I’m currently working on **AI/ML/DL** </p>
   <p>⚙️ I use daily: **.py, .ipynb, GCP** </p>
-<p> 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything<a href="(https://github.com/jawherennaceur/jawherennaceur/issues)">[here]</a>** </p>
+<p> 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything <a href="(https://github.com/jawherennaceur/jawherennaceur/issues)" rel="#">[here]</a>** </p>
  
  </div>
 
