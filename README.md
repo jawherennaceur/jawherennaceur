@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,nodejs,flutterfirebase,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,nodejs,flutter,firebase,mongodb,mysql,flask" /><br>
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
