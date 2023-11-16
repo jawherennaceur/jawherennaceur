@@ -10,8 +10,7 @@
 - 🔭 I’m currently working on **AI/ML/DL** 
 - ⚙️ I use daily: **.py, .ipynb, GCP** 
 - 💬 Ask me about **AI,Python,Data Analysis ... or anything [HERE](https://github.com/jawherennaceur/jawherennaceur/issues)** 
- 
-![machine-learning-_1_](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/33558ab8-bf22-4aeb-8765-6704257a7fc0)
+![ai gif](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/22c64153-5bc0-4665-957d-1e52c63b95ba)
 
  <div align="center"> 
   <a href="mailto:ennaceurja@gmail.com">
