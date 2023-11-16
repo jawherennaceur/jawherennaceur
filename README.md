@@ -1,9 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawherennaceur&label=Profile%20views&color=0e75b6&style=flat" alt="jawherennaceur" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jawherennaceur&label=Profile%20views&color=0e75b6&style=flat" alt="jawherennaceur" /> </p>
 
 <h1 align="center">Hi 👋, I'm Jawher Ennaceur</h1>
 <h3 align="center">A passionate Computer Science Student from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawherennaceur&label=Profile%20views&color=0e75b6&style=flat" alt="jawherennaceur" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow and Data sciences**
 - 🔭 I’m currently working on **AI/ML/DL**
