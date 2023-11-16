@@ -6,14 +6,11 @@
 <h3 align="center">A passionate Computer Science Student from Tunisia</h3>
 <br/>
 
-<div align="center">
+- 🌱 I’m currently learning **Tensorflow and Data sciences** 
+- 🔭 I’m currently working on **AI/ML/DL** 
+- ⚙️ I use daily: **.py, .ipynb, GCP** 
+- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [HERE] (https://github.com/jawherennaceur/jawherennaceur/issues)** 
  
- <p> 🌱 I’m currently learning **Tensorflow and Data sciences** </p>
-<p>🔭 I’m currently working on **AI/ML/DL** </p>
-  <p>⚙️ I use daily: **.py, .ipynb, GCP** </p>
-<p> 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything <a href="(https://github.com/jawherennaceur/jawherennaceur/issues)" rel="#">here</a>** </p>
- 
- </div>
 
  <div align="center"> 
   <a href="mailto:ennaceurja@gmail.com">
