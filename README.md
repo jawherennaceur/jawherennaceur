@@ -5,10 +5,14 @@
 </h1>
 <h3 align="center">A passionate Computer Science Student from Tunisia</h3>
 <br/>
+
+<div align="center">
+ 
 - 🌱 I’m currently learning **Tensorflow and Data sciences**
 - 🔭 I’m currently working on **AI/ML/DL**
-- ⚙️ I use daily: **.py, .ipynb, GCP**
-
+ - ⚙️ I use daily: **.py, .ipynb, GCP**
+ 
+ </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jawher-ennaceur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jawher-ennaceur/" height="30" width="40" /></a>
