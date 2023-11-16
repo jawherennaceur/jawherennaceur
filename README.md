@@ -8,10 +8,10 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Tensorflow and Data sciences**
- 🔭 I’m currently working on **AI/ML/DL**
-  ⚙️ I use daily: **.py, .ipynb, GCP**
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/jawherennaceur/jawherennaceur/issues)**
+ <p 🌱 I’m currently learning **Tensorflow and Data sciences** /p>
+<p 🔭 I’m currently working on **AI/ML/DL** /p>
+  <p ⚙️ I use daily: **.py, .ipynb, GCP**/p>
+<p 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/jawherennaceur/jawherennaceur/issues)** /p>
  
  </div>
 
