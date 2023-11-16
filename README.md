@@ -12,7 +12,7 @@
 - 💬 Ask me about **AI,Python,Data Analysis ... or anything [HERE](https://github.com/jawherennaceur/jawherennaceur/issues)** 
 
 <div align="right">
-    ![ai gif](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/22c64153-5bc0-4665-957d-1e52c63b95ba)
+   <p> ![ai gif](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/22c64153-5bc0-4665-957d-1e52c63b95ba)</p>
 </div>
  <div align="center"> 
   <a href="mailto:ennaceurja@gmail.com">
