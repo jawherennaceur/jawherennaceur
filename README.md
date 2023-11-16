@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **AI/ML/DL** 
 - ⚙️ I use daily: **.py, .ipynb, GCP** 
 - 💬 Ask me about **AI,Python,Data Analysis ... or anything [HERE](https://github.com/jawherennaceur/jawherennaceur/issues)** 
-![ai gif](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/22c64153-5bc0-4665-957d-1e52c63b95ba)
 
+<div align="right">![ai gif](https://github.com/jawherennaceur/jawherennaceur/assets/126682736/22c64153-5bc0-4665-957d-1e52c63b95ba)</div>
  <div align="center"> 
   <a href="mailto:ennaceurja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
