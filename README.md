@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Tensorflow and Data sciences** 
 - 🔭 I’m currently working on **AI/ML/DL** 
 - ⚙️ I use daily: **.py, .ipynb, GCP** 
-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [HERE](https://github.com/jawherennaceur/jawherennaceur/issues)** 
+- 💬 Ask me about **AI,Python,Data Analysis ... or anything [HERE](https://github.com/jawherennaceur/jawherennaceur/issues)** 
  
 
  <div align="center"> 
