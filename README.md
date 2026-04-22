@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=180&section=header&text=Jawher%20Ennaceur&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20GraphRAG%20Expert&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 <a href="https://jawherennaceur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-<a href="https://medium.com/@@jawherennaceur" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://medium.com/@jawherennaceur" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://linkedin.com/in/jawher-ennaceur" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:jawherennaceur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <br/>
@@ -13,7 +13,7 @@ I am an **AI Engineer** based in Tunisia, specializing in the architecture of pr
 
 * 🔭 **Currently:** At **Deloitte**, architecting a Salesforce Copilot powered by LangGraph and Neo4j.
 * 🧠 **Core Expertise:** Agentic AI, RAG Pipelines, Graph Databases, and ML Ops.
-* ✍️ **Writing:** I share deep dives into LLM orchestration and Agentic workflows on **[Medium](https://medium.com/@your-username)**.
+* ✍️ **Writing:** I share deep dives into LLM orchestration and Agentic workflows on **[Medium](https://medium.com/@jawherennaceur)**.
 * 🏫 **Impact:** Trained 85+ engineers and students on Generative AI and Deep Learning fundamentals.
 ---
 
