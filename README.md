@@ -1,13 +1,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=180&section=header&text=Jawher%20Ennaceur&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20GraphRAG%20Expert&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white)](https://jawherennaceur.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jawherennaceur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawher-ennaceur)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawherennaceur@gmail.com)
+<a href="https://jawherennaceur.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+<a href="https://medium.com/@@jawherennaceur" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://linkedin.com/in/jawher-ennaceur" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jawherennaceur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=jawherennaceur&label=Profile%20Views&color=0e75b6&style=flat-square)
-</div>
+  </div>
+
 
 ### 👨‍💻 Professional Overview
 I am an **AI Engineer** based in Tunisia, specializing in the architecture of production-grade **LLM Systems** and **Multi-Agent Swarms**. My work focuses on bridging the gap between raw models and enterprise-ready applications using **GraphRAG**, **LangGraph**, and the **Model Context Protocol (MCP)**.
@@ -42,13 +41,13 @@ I am an **AI Engineer** based in Tunisia, specializing in the architecture of pr
 
 ### 🦜 Featured Projects
 
-#### [Graph-Based Insurance Copilot]
+#### Graph-Based Insurance Copilot
 A backend architecture utilizing **Neo4j** to manage complex insurance policies. Implemented Cypher query optimization to handle exclusions and covered risks dynamically through an LLM interface.
 
-#### [Smart Shopping Advisor]
+#### Smart Shopping Advisor
 An NL-powered recommendation engine using **Gemini API** and LangChain. Uses fuzzy matching and real-time reasoning to transform unstructured user queries into product comparisons.
 
-#### [Genetic Scheduling Optimizer]
+#### Genetic Scheduling Optimizer
 A Python-based evolutionary algorithm designed to solve high-constraint scheduling for university thesis defenses, managing room assignments and professor availability.
 
 ---
